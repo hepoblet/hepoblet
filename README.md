@@ -5,15 +5,8 @@
 
 me.js
 ```javascript
-const me = {
-  name: 'Héctor Poblete',
-  role: 'Mobile Developer'
-}
-
-const hello = ({name, role}) => {
-  return `Hello!\nI'm known as ${name}, a ${role}`
-}
-
+const me = {name: 'Héctor Poblete', role: 'Mobile Developer'}
+const hello = ({name, role}) => (`Hello!\nI'm known as ${name}, a ${role}`)
 console.log(hello(me))
 ```
 
