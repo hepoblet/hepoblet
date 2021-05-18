@@ -23,6 +23,13 @@ console.log(hello(me))
 
 
 
+## <p align="center">🚀 Repositories</p>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&theme=react&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center"><a href="https://github.com/hepoblet/hepoblet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/hepoblet.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet.github.io&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/ibuy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a></p>
+
+
+
 ## <p align="center">🔥 Streak Stats</p>
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -41,13 +48,6 @@ console.log(hello(me))
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
-
-
-
-## <p align="center">🚀 Repositories</p>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&theme=react&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center"><a href="https://github.com/hepoblet/hepoblet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet&hide_border=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/hepoblet.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet.github.io&hide_border=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/ibuy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&hide_border=true&theme=react&show_owner=true" /></a></p>
 
 
 
