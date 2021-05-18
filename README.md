@@ -3,16 +3,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/python
+me.js
+```javascript
 
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Héctor Poblete"
-        self.role = "Software Engineer"
+const softwareEngineer = (
+    me: {
+        name: 'Héctor Poblete',
+        role: 'Software Engineer'
+    }
+)
 
-
-me = SoftwareEngineer()
+softwareEngineer[me]
 ```
 
 ## 📝 Blogs
