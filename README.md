@@ -10,7 +10,7 @@ console.log(hello(me))
 
 
 
-## <p align="center">🔥 GitHub Stats</p>
+## <p align="center">🌋 GitHub Stats</p>
 
 <p align="center"><a href="/hepoblet/hepoblet/blob/main"><img src="https://camo.githubusercontent.com/fb821a8e734270c6df232c8566ed06c5d25144d7532cba42425ecbd716530513/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6865706f626c6574266c616e67735f636f756e743d38266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d463844383636" alt="Top Langs" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hepoblet&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width:100%;"></a>
 <a href="/hepoblet/hepoblet/blob/main"><img src="https://camo.githubusercontent.com/7b20e4a2b78acc3df376d51b3a37029555862260d0d952717f1093c3d6fa5754/68747470733a2f2f64656e766572636f646572312d6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6865706f626c65742673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d7472756526686964655f7469746c653d747275652662675f636f6c6f723d314632323245267469746c655f636f6c6f723d4638354437462669636f6e5f636f6c6f723d463844383636" alt="Anurag's GitHub stats" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hepoblet&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;hide_title=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width:100%;"></a>
@@ -18,7 +18,7 @@ console.log(hello(me))
 
 
 
-## <p align="center">🔥 GitHub Trophies</p>
+## <p align="center">🏅 GitHub Trophies</p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/f09bb172de5dc03b761ad65e06505950a8dc6f094a18fff4b35797850e1b7557/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6865706f626c6574267468656d653d6e6f726426636f6c756d6e3d35" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&amp;column=5" style="max-width:100%;"></a></p>
 
@@ -30,7 +30,7 @@ console.log(hello(me))
 
 
 
-## <p align="center">🔥 Dev Skills</p>
+## <p align="center">🎸 Dev Skills</p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
