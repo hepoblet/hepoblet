@@ -19,7 +19,7 @@ console.log(hello(me))
 ## <p align="center">🥇 GitHub Trophies</p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&column=6&row=1&margin-w=10&margin-h=5&no-bg=false&no-frame=true" alt="trophy" style="max-width:100%;"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&column=6&row=1&margin-w=15&margin-h=10&no-bg=true&no-frame=true" alt="trophy" style="max-width:100%;"></p>
 
 
 
