@@ -3,7 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -35,7 +34,3 @@ me = SoftwareEngineer()
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hepoblet&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hepoblet&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
