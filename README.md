@@ -26,7 +26,9 @@ console.log(hello(me))
 
 ## <p align="center">🔥 Streak Stats</p>
 
-<p align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hepoblet&theme=monokai-metallian&hide_border=true"/></a></p>
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
+<p align="center"><img src="https://camo.githubusercontent.com/3747894881ba78fc424a7fe3e739c9dbcaf90211751bfdd0179df47689bb1393/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6865706f626c6574267468656d653d626c61636b2d69636526686964655f626f726465723d74727565" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=hepoblet&amp;theme=black-ice&amp;hide_border=true" style="max-width:100%;"></p>
 
 
 
