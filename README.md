@@ -19,7 +19,7 @@ console.log(hello(me))
 ## <p align="center">🥇 GitHub Trophies</p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center"><img src="https://camo.githubusercontent.com/e342346faffe6483c75f9dae1c6341005a4cf6c96a96f1c347dab8527caca2d7/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6865706f626c6574267468656d653d6e6f726426636f6c756d6e3d3626726f773d31266d617267696e2d773d3130266d617267696e2d683d35266e6f2d62673d74727565266e6f2d6672616d653d74727565" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&amp;column=6&amp;row=1&amp;margin-w=10&amp;margin-h=5&amp;no-bg=true&amp;no-frame=true" style="max-width:100%;"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&column=6&row=1&margin-w=10&margin-h=5&no-bg=false&no-frame=true" alt="trophy" style="max-width:100%;"></p>
 
 
 
