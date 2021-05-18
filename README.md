@@ -5,15 +5,16 @@
 
 me.js
 ```javascript
+const me = {
+  name: 'Héctor Poblete',
+  role: 'Mobile Developer'
+}
 
-const softwareEngineer = (
-    me: {
-        name: 'Héctor Poblete',
-        role: 'Software Engineer'
-    }
-)
+const hello = ({name, role}) => {
+  return `Hello!\nI'm known as ${name}, a ${role}`
+}
 
-softwareEngineer[me]
+console.log(hello(me))
 ```
 
 ## 📝 Blogs
