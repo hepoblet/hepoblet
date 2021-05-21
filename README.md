@@ -58,11 +58,14 @@ console.log(hello(me))
 
 
 
-
-<!-- https://shields.io/category/build -->
+<!-- https://shields.io -->
 <p align="center">
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet"/>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--social?logo=linkedin&style=social&link=https://www.linkedin.com/in/hepoblet"/>
-  <img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://hepoblet.github.io"/>
-  <img alt="Follower" src="https://img.shields.io/github/followers/hepoblet?label=Follow&style=social"/>
+  <img alt="Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet"/>
+  <a href="https://www.linkedin.com/in/hepoblet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--social?style=social&logo=linkedin&link=https://www.linkedin.com/in/hepoblet"/>
+  </a>
+  <a href="link=https://hepoblet.github.io">
+    <img alt="Website" src="https://img.shields.io/badge/Website--social?style=social&logo=google-chrome&link=https://hepoblet.github.io"/>
+  </a>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hepoblet?style=social&label=Follow"/>
 </p>
