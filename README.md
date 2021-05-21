@@ -65,7 +65,7 @@ console.log(hello(me))
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 
-[![Lines of code](https://img.shields.io/badge/style-social?style=asdas&logo=linkedin&logoColor=blue&label=LinkeIn&labelColor=white)](https://www.linkedin.com/in/hepoblet/)
 
 
+![Lines of code](https://img.shields.io/badge/LinkedIn--social?logo=linkedin&style=social&link=https://www.linkedin.com/in/hepoblet/)
 
