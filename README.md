@@ -51,21 +51,18 @@ console.log(hello(me))
 
 
 
-<p align="center"><img src="https://camo.githubusercontent.com/f45d1494e3820beb475d404d306f67914ff075b6c880d1ec0073ddc015414cd3/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6865706f626c65742e6865706f626c6574" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet" style="max-width:100%;"></p>
-
-
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--social?logo=linkedin&style=social&link=https://www.linkedin.com/in/hepoblet"/>
+</p>
 
 <!-- https://shields.io/category/build -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://hepoblet.github.io)](https://hepoblet.github.io)
+
+![GitHub followers](https://img.shields.io/github/followers/hepoblet?label=Follow&style=social)
 
 
 
-
-![Lines of code](https://img.shields.io/badge/LinkedIn--social?logo=linkedin&style=social&link=https://www.linkedin.com/in/hepoblet/)
 
