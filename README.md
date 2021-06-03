@@ -69,18 +69,18 @@ console.log(hello(me))
 
 <p align="center">
   <!-- https://shields.io -->
-  <img alt="React" src="https://img.shields.io/badge/react-%23202429.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%23202429.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+  <!-- https://simpleicons.org -->
+  <img alt="React" src="https://img.shields.io/badge/React-202429.svg?style=flat-square&logo=react&logoColor=62dafb"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-202429.svg?style=flat-square&logo=react&logoColor=62dafb"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-7849bc.svg?style=flat-square&logo=redux&logoColor=ffffff"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-61995e.svg?style=flat-square&logo=node-dot-js&logoColor=ffffff"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript&logoColor=eed81a"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d1f.svg?style=flat-square&logo=laravel&logoColor=ffffff"/>
 </p>
 
 
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/hepoblet">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin--social?&style=social&logo=linkedin"/>
   </a>
