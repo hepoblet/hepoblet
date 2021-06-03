@@ -70,14 +70,15 @@ console.log(hello(me))
 <p align="center">
   <!-- https://shields.io -->
   <!-- https://simpleicons.org -->
-  <img alt="React" src="https://img.shields.io/badge/React-202429.svg?style=flat-square&logo=react&logoColor=62dafb"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-202429.svg?style=flat-square&logo=react&logoColor=62dafb"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-7849bc.svg?style=flat-square&logo=redux&logoColor=ffffff"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-61995e.svg?style=flat-square&logo=node-dot-js&logoColor=ffffff"/>
+  <img alt="React" src="https://img.shields.io/badge/React-202429.svg?style=flat-square&logo=react"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-202429.svg?style=flat-square&logo=react"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-7849bc.svg?style=flat-square&logo=redux"/>
+  <img alt="Redux Saga" src="https://img.shields.io/badge/Redux_Saga-86d46a.svg?style=flat-square&logo=redux-saga&logoColor=ffffff"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-67a063.svg?style=flat-square&logo=node-dot-js&logoColor=ffffff"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript&logoColor=eed81a"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d1f.svg?style=flat-square&logo=laravel&logoColor=ffffff"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-202429.svg?style=flat-square&logo=laravel"/>
   <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-202429.svg?style=flat-square&logo=google-play&logoColor=ffffff"/>
-  <img alt="App Store" src="https://img.shields.io/badge/App_Store-202429.svg?style=flat-square&logo=app-store&logoColor=ffffff"/>
+  <img alt="App Store" src="https://img.shields.io/badge/App_Store-ffffff.svg?style=flat-square&logo=app-store"/>
 </p>
 
 
