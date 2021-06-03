@@ -82,10 +82,10 @@ console.log(hello(me))
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hepoblet">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin--social?&style=social&logo=linkedin"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ffffff.svg?&style=flat&logo=linkedin&logoColor=0b65c2"/>
   </a>
   <a href="https://hepoblet.github.io">
-    <img alt="Website" src="https://img.shields.io/badge/website--social?style=social&logo=google-chrome"/>
+    <img alt="Website" src="https://img.shields.io/badge/Website-ffffff.svg?style=flat&logo=google-chrome&logoColor=ff8614"/>
   </a>
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hepoblet?style=social&label=Follow"/>
 </p>
