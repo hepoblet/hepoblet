@@ -40,22 +40,35 @@ console.log(hello(me))
 
 ## <p align="center">🚀 Repositories</p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&theme=react&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center"><a href="https://github.com/hepoblet/hepoblet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/hepoblet.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet.github.io&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a><a href="https://github.com/hepoblet/ibuy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&hide_border=true&show_icons=true&theme=react&show_owner=true" /></a></p>
+<p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/hepoblet/hepoblet">
+    <img alt="hepoblet/hepoblet" src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet&hide_border=true&show_icons=true&theme=react&show_owner=true"/>
+  </a>
+  <a href="https://github.com/hepoblet/hepoblet.github.io">
+    <img alt="hepoblet/hepoblet.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet.github.io&hide_border=true&show_icons=true&theme=react&show_owner=true"/>
+  </a>
+  <a href="https://github.com/hepoblet/ibuy">
+    <img alt="hepoblet/ibuy" src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&hide_border=true&show_icons=true&theme=react&show_owner=true"/>
+  </a>
+</p>
 
 
 
 ## <p align="center">🔥 Streak Stats</p>
 
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
-<p align="center"><img src="https://camo.githubusercontent.com/49387c512b3334ffc2663c3d20e2bff47a0bd81c0a6c88377583ec33ef81ea90/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6865706f626c6574267468656d653d726561637426686964655f626f726465723d7472756526666972653d444432373237" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=hepoblet&amp;theme=react&amp;hide_border=true&amp;fire=DD2727" style="max-width:100%;" ></p>
+<p align="center">
+  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- http://github-readme-streak-stats.herokuapp.com/demo -->
+  <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=hepoblet&theme=react&hide_border=true&fire=DD2727"/>
+</p>
 
 
 
-## <p align="center">🎸 Dev Skills</p>
+## <p align="center">🎸 Skills</p>
 
 <p align="center">
+  <!-- https://shields.io -->
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
@@ -64,15 +77,17 @@ console.log(hello(me))
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
+
+
+
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/react---?style=plastic&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%23202429.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
 
 </p>
 
 
-<!-- https://shields.io -->
 <p align="center">
   <img alt="Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet"/>
   <a href="https://www.linkedin.com/in/hepoblet">
