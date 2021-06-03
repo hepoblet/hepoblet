@@ -78,6 +78,7 @@ console.log(hello(me))
   <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-202429.svg?style=flat-square&logo=google-play"/>
   <img alt="App Store" src="https://img.shields.io/badge/App_Store-202429.svg?style=flat-square&logo=app-store"/>
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-202429.svg?style=flat-square&logo=firebase"/>
+  <img alt="Bitrise" src="https://img.shields.io/badge/Bitrise-202429.svg?style=flat-square&logo=bitrise"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-202429.svg?style=flat-square&logo=node-dot-js"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-202429.svg?style=flat-square&logo=npm"/>
@@ -102,6 +103,9 @@ console.log(hello(me))
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-202429.svg?style=flat-square&logo=github"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-202429.svg?style=flat-square&logo=jira"/>
   <img alt="Slack" src="https://img.shields.io/badge/Slack-202429.svg?style=flat-square&logo=slack"/>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-202429.svg?style=flat-square&logo=microsoft-azure"/>
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-202429.svg?style=flat-square&logo=microsoft"/>
+  <img alt="Apple" src="https://img.shields.io/badge/Apple-202429.svg?style=flat-square&logo=apple"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-202429.svg?style=flat-square&logo=android"/>
   <img alt="iOS" src="https://img.shields.io/badge/iOS-202429.svg?style=flat-square&logo=ios"/>
 </p>
