@@ -76,6 +76,8 @@ console.log(hello(me))
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-61995e.svg?style=flat-square&logo=node-dot-js&logoColor=ffffff"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript&logoColor=eed81a"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d1f.svg?style=flat-square&logo=laravel&logoColor=ffffff"/>
+  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-202429.svg?style=flat-square&logo=google-play&logoColor=ffffff"/>
+  <img alt="App Store" src="https://img.shields.io/badge/App_Store-202429.svg?style=flat-square&logo=app-store&logoColor=ffffff"/>
 </p>
 
 
