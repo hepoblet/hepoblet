@@ -72,13 +72,17 @@ console.log(hello(me))
   <!-- https://simpleicons.org -->
   <img alt="React" src="https://img.shields.io/badge/React-202429.svg?style=flat-square&logo=react"/>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-202429.svg?style=flat-square&logo=react"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-7849bc.svg?style=flat-square&logo=redux"/>
-  <img alt="Redux Saga" src="https://img.shields.io/badge/Redux_Saga-86d46a.svg?style=flat-square&logo=redux-saga&logoColor=ffffff"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-67a063.svg?style=flat-square&logo=node-dot-js&logoColor=ffffff"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript&logoColor=eed81a"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-202429.svg?style=flat-square&logo=redux&logoColor=7849bc"/>
+  <img alt="Redux Saga" src="https://img.shields.io/badge/Redux_Saga-202429.svg?style=flat-square&logo=redux-saga"/>
+  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-202429.svg?style=flat-square&logo=google-play"/>
+  <img alt="App Store" src="https://img.shields.io/badge/App_Store-202429.svg?style=flat-square&logo=app-store"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-202429.svg?style=flat-square&logo=visual-studio-code"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-202429.svg?style=flat-square&logo=javascript"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-202429.svg?style=flat-square&logo=node-dot-js"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-202429.svg?style=flat-square&logo=php"/>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-202429.svg?style=flat-square&logo=laravel"/>
-  <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-202429.svg?style=flat-square&logo=google-play&logoColor=ffffff"/>
-  <img alt="App Store" src="https://img.shields.io/badge/App_Store-ffffff.svg?style=flat-square&logo=app-store"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-202429.svg?style=flat-square&logo=bootstrap"/>
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-202429.svg?style=flat-square&logo=ant-design"/>
 </p>
 
 
