@@ -69,8 +69,8 @@ console.log(hello(me))
 
 <p align="center">
   <!-- https://shields.io -->
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%23202429.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%23202429.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -79,22 +79,20 @@ console.log(hello(me))
 
 
 
-
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/react-%23202429.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
-
+  <a href="https://www.linkedin.com/in/hepoblet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin--social?&style=social&logo=linkedin"/>
+  </a>
+  <a href="https://hepoblet.github.io">
+    <img alt="Website" src="https://img.shields.io/badge/website--social?style=social&logo=google-chrome"/>
+  </a>
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hepoblet?style=social&label=Follow"/>
 </p>
 
 
+
 <p align="center">
+  <!-- https://visitor-badge.laobi.icu -->
   <img alt="Profile Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=hepoblet.hepoblet"/>
-  <a href="https://www.linkedin.com/in/hepoblet">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--social?style=social&logo=linkedin&link=https://www.linkedin.com/in/hepoblet"/>
-  </a>
-  <a href="https://hepoblet.github.io">
-    <img alt="Website" src="https://img.shields.io/badge/Website--social?style=social&logo=google-chrome&link=https://hepoblet.github.io"/>
-  </a>
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hepoblet?style=social&label=Follow"/>
 </p>
