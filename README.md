@@ -19,14 +19,22 @@ console.log(hello(me))
 
 ## <p align="center">🌋 GitHub Stats</p>
 
-<p align="center"><!-- https://github.com/anuraghazra/github-readme-stats --><img src="https://camo.githubusercontent.com/0bdc637d1e4bd0cfeb3d5d2a2afe8ea88781d4e9b1df7c3003f20a73ea233d11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6865706f626c6574266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d726561637426686964655f626f726465723d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hepoblet&amp;layout=compact&amp;langs_count=8&amp;theme=react&amp;hide_border=true" style="max-width:100%;"><!-- https://github.com/anuraghazra/github-readme-stats --><img src="https://camo.githubusercontent.com/4d44d39cb467bdbcdd11e541c00d792ed823c6222ade60fd83d0cdd7e11d30e4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6865706f626c65742673686f775f69636f6e733d74727565267468656d653d726561637426636f756e745f707269766174653d7472756526686964655f626f726465723d7472756526637573746f6d5f7469746c653d4769744875622532305374617473266c696e655f6865696768743d3234" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=hepoblet&amp;show_icons=true&amp;theme=react&amp;count_private=true&amp;hide_border=true&amp;custom_title=GitHub%20Stats&amp;line_height=24" style="max-width:100%;"><!-- https://github.com/ashutosh00710/github-readme-activity-graph --><img src="https://activity-graph.herokuapp.com/graph?username=hepoblet&bg_color=20232a&color=0fe6fe&line=f7630d&point=fce100&area=false&hide_border=true" alt="Ashutosh's github activity graph" style="max-width:100%;"></p>
+<p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+  <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hepoblet&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hepoblet&show_icons=true&theme=react&count_private=true&hide_border=true&custom_title=GitHub%20Stats&line_height=24"/>
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hepoblet&bg_color=20232a&color=0fe6fe&line=f7630d&point=fce100&area=false&hide_border=true"/>
+</p>
 
 
 
 ## <p align="center">🥇 GitHub Trophies</p>
 
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hepoblet&amp;theme=nord&column=6&row=1&margin-w=15&margin-h=10&no-bg=true&no-frame=true" alt="trophy" style="max-width:100%;"></p>
+<p align="center">
+  <!-- https://github.com/ryo-ma/github-profile-trophy -->
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=hepoblet&theme=nord&column=6&row=1&margin-w=15&margin-h=10&no-bg=true&no-frame=true"/>
+</p>
 
 
 
@@ -56,6 +64,12 @@ console.log(hello(me))
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/react---?style=plastic&logo=react&logoColor=%2361DAFB"/>
+
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+
+</p>
 
 
 <!-- https://shields.io -->
@@ -64,7 +78,7 @@ console.log(hello(me))
   <a href="https://www.linkedin.com/in/hepoblet">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn--social?style=social&logo=linkedin&link=https://www.linkedin.com/in/hepoblet"/>
   </a>
-  <a href="link=https://hepoblet.github.io">
+  <a href="https://hepoblet.github.io">
     <img alt="Website" src="https://img.shields.io/badge/Website--social?style=social&logo=google-chrome&link=https://hepoblet.github.io"/>
   </a>
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/hepoblet?style=social&label=Follow"/>
