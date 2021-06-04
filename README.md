@@ -3,16 +3,23 @@
 <p align="center">> node ./me.js</p>
 
 ```javascript
-const me = {
-  name: 'Héctor Poblete',
-  role: 'Mobile Developer'
+const developer = 'me'
+
+const softwareEngineer = {
+  me: {
+    alias: 'hepoblet',
+    name: 'Héctor Poblete',
+    role: 'Mobile Developer',
+    company: `Papa John's International`,
+    country: 'Chile',
+    get hello() {
+      const { alias, name, role, company, country } = this
+      return `Howdy!\nMy name is ${name} aka ${alias}. I'm ${role} on ${company} from ${country} `
+    }
+  }
 }
 
-const hello = ({name, role}) => {
-  return `Hello!\nI'm known as ${name}, a ${role}`
-}
-
-console.log(hello(me))
+console.log(softwareEngineer[developer].hello)
 ```
 
 
