@@ -1,4 +1,4 @@
-## <p align="center">If you're good at something never do it for free 🔥</p>
+## <p align="center">🔥 If you're good at something never do it for free</p>
 
 <p align="center">> node ./me.js</p>
 
