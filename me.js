@@ -5,7 +5,7 @@ const softwareEngineer = {
     alias: 'hepoblet',
     name: 'Héctor Poblete',
     role: 'Mobile Developer',
-    company: `Papa John's International`,
+    company: `Papa John's Chile`,
     country: 'Chile',
     get hello() {
       const { alias, name, role, company, country } = this
