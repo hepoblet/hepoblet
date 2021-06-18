@@ -55,9 +55,9 @@ console.log(softwareEngineer[developer].hello)
   <a href="https://github.com/hepoblet/hepoblet.github.io">
     <img alt="hepoblet/hepoblet.github.io" src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=hepoblet.github.io&hide_border=true&show_icons=true&theme=react&show_owner=true"/>
   </a>
-  <a href="https://github.com/hepoblet/ibuy">
+  <!--a href="https://github.com/hepoblet/ibuy">
     <img alt="hepoblet/ibuy" src="https://github-readme-stats.vercel.app/api/pin/?username=hepoblet&repo=ibuy&hide_border=true&show_icons=true&theme=react&show_owner=true"/>
-  </a>
+  </a-->
 </p>
 
 
